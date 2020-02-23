@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //Double checks done
 
 //Second query file
+//new
 @SpringBootApplication
 public class FlagpickerApplication {
 
