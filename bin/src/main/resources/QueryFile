@@ -1,0 +1,35 @@
+
+insert into continent values (1 , 'Africa');
+insert into country values (11 , 'NG' , 'Nigeria' , 1);
+insert into country values (12 , 'ET' , 'EEthiopia' , 1);
+insert into country values (13 , 'EG' , 'Egypt' , 1);
+insert into country values (14 , 'CD' , 'DR Congo' , 1);
+insert into country values (15 , 'ZA' , 'South Africa' , 1);
+
+insert into continent values (2 , 'America');
+insert into country values (21 , 'US' , 'USA' , 2);
+insert into country values (22 , 'BR' , 'Brazil' , 2);
+insert into country values (23 , 'MX' , 'Mexico' , 2);
+insert into country values (24 , 'CO' , 'Colombia' , 2);
+insert into country values (25 , 'AR' , 'Argentina' , 2);
+
+insert into continent values (3 , 'Asia');
+insert into country values (31 , 'IN' , 'India' , 3);
+insert into country values (32 , 'CN' , 'China' , 3);
+insert into country values (33 , 'ID' , 'Indonesia' , 3);
+insert into country values (34 , 'PK' , 'Pakistan' , 3);
+insert into country values (35 , 'BD' , 'Bangladesh' , 3);
+
+insert into continent values (4 , 'Europe');
+insert into country values (41 , 'RU' , 'Russia' , 4);
+insert into country values (42 , 'DE' , 'Germany' , 4);
+insert into country values (43 , 'GB' , 'UK' , 4);
+insert into country values (44 , 'FR' , 'France' , 4);
+insert into country values (45 , 'IT' , 'Italy' , 4);
+
+insert into continent values (5 , 'Oceania');
+insert into country values (51 , 'AU' , 'Australia' , 5);
+insert into country values (52 , 'PG' , 'Papua New Guinea' , 5);
+insert into country values (53 , 'NZ' , 'New Zealand' , 5);
+insert into country values (54 , 'FJ' , 'Fiji' , 5);
+insert into country values (55 , 'SB' , 'Solomon Islands' , 5);
