@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Spring boot applicationn
 //Json added
+//Query file added
 @SpringBootApplication
 public class FlagpickerApplication {
 
